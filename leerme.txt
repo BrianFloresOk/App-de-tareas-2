@@ -1,0 +1,14 @@
+App de tareas:
+La app tiene las funciones pedidas por el playground más una funcion extra
+que me pareció útil agregarle.
+Cuenta con la función cambiarEstado() el cual permite cambiar el estado de una tarea,
+buscandolo por el titulo.
+Esta funcion se activa ingresado la palabra "cambiar" seguido del titulo de la tarea y
+el nuevo estado que queremos asignarle. Si el titulo ingresado no existe o es incorrecto
+aparecera un msj por consola informandolo. Si todo esta en orden nos devuelve un msj
+por consola notificando que la tarea cambio su estado.
+
+COMENTARIO: Si el nuevo estado para asignar es "completado", aparecera un msj adicional
+por consola.
+
+ESTADOS DISPONIBLES: Pendiente, en proceso y completado.

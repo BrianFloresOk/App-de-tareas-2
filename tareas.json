@@ -1,0 +1,46 @@
+[
+    {
+        "Titulo": "CALCULADORA",
+        "Estado": "EN PROCESO"
+    },
+    {
+        "Titulo": "MODULO 1 DE PLAYGROUND",
+        "Estado": "COMPLETADO"
+    },
+    {
+        "Titulo": "APP DE TAREAS 2.0",
+        "Estado": "COMPLETADO"
+    },
+    {
+        "Titulo": "ESTUDIAR INGLES",
+        "Estado": "PENDIENTE"
+    },
+    {
+        "Titulo": "TAREA DE PRUEBA",
+        "Estado": "EN PROCESO"
+    },
+    {
+        "Titulo": "PRACTICA DE ARRAYS",
+        "Estado": "EN PROCESO"
+    },
+    {
+        "Titulo": "ASISTIR A LAS MASTERCLASS",
+        "Estado": "EN PROCESO"
+    },
+    {
+        "Titulo": "PRUEBA 2 DE APP DE TAREAS",
+        "Estado": "PENDIENTE"
+    },
+    {
+        "Titulo": "APP CONCESIONARIA",
+        "Estado": "COMPLETADO"
+    },
+    {
+        "Titulo": "USAR TRELLO",
+        "Estado": "PENDIENTE"
+    },
+    {
+        "Titulo": "SUBIR A GITHUB",
+        "Estado": "COMPLETADO"
+    }
+]
